@@ -1,4 +1,4 @@
-# Autodiff & Optimization Playground
+# Autodifferentiation Project
 
 A small from-scratch project exploring automatic differentiation and optimization algorithms in Python — built as a learning exercise, not a production library.
 
