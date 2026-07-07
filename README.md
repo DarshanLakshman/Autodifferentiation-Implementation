@@ -113,8 +113,6 @@ Run with:
 python gd_tests.py
 ```
 
-Note: because of the `Node.cos()` bug described below, results will be wrong for any test function that uses `cos()` when run through `gradient_descent_backward_AD` — worth fixing before trusting reverse-mode results on trig-based functions.
-
 ## Possible next steps
 
 - Fix the negative-base fractional power case in `Dual.__pow__` (forward mode)
